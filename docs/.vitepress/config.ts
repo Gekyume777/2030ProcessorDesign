@@ -150,7 +150,7 @@ function katexPlugin(md: any) {
 const SITE_BASE = process.env.BASE ?? '/2030ProcessorDesign/'
 // 线上可抓取的完整 URL（用于 sitemap / robots / og 等）。
 // 自定义域名时设 HOSTNAME=https://your-domain.com BASE=/。
-const SITE_HOSTNAME = process.env.HOSTNAME ?? 'https://skylerroy.github.io'
+const SITE_HOSTNAME = process.env.HOSTNAME ?? 'https://gekyume777.github.io'
 const SITE_URL = SITE_HOSTNAME + SITE_BASE.replace(/\/$/, '')
 
 // Google Search Console / Bing 等搜索引擎站长验证码（拿到后填这里）。

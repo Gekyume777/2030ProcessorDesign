@@ -2,6 +2,7 @@
   "name": "2030-processor-design",
   "version": "0.2.0",
   "private": true,
+  "packageManager": "pnpm@10.34.9",
   "description": "《2030处理器设计》GitBook 版 —— 从 LaTeX 源自动生成的开源在线书",
   "author": "王丰羽 assisted by Claude Code",
   "license": "SEE LICENSE IN LICENSE",
